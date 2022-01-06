@@ -53,7 +53,7 @@ class TasksScreen extends StatelessWidget {
                   ],
                 ),
                      const SizedBox(
-                       height: 30.0,
+                       height: 50.0,
                      ),
                      const Text('Case Details',
                      textAlign: TextAlign.center,
@@ -63,7 +63,7 @@ class TasksScreen extends StatelessWidget {
                      ),
                    ),
                      const SizedBox(
-                  height:20,
+                  height:10,
                 ),
                      Expanded(
                        child: Container(
